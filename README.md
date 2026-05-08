@@ -1,2 +1,6 @@
-# ejemplo_clase
-Este repositorio es un ejemplo para la clase Programación Básica en Python
+# Ejemplo para la clase de Programación
+## equipo 0
+
+Este programa simula la venta de cafés en una cafetería
+
+
